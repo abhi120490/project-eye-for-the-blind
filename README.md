@@ -5,6 +5,9 @@
 
 To solve this problem we need to apply both deep learning and natural language processing. The features of an image will be extracted by a CNN-based encoder and this will be decoded by an RNN model.
 
+![Uploading image.png…]()
+
+
 The project is an extended application of Show, Attend and Tell: Neural Image Caption Generation with Visual Attention paper.
 Link: https://arxiv.org/abs/1502.03044
 
