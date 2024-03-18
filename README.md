@@ -5,7 +5,7 @@
 
 To solve this problem we need to apply both deep learning and natural language processing. The features of an image will be extracted by a CNN-based encoder and this will be decoded by an RNN model.
 
-![Uploading image.png…]()
+<img width="866" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/ab0b9082-6ea2-493b-a673-078b5fcc4d71">
 
 
 The project is an extended application of Show, Attend and Tell: Neural Image Caption Generation with Visual Attention paper.
@@ -15,9 +15,22 @@ The dataset is taken from the Kaggle website and it consists of sentence-based i
 
 **Project Pipeline**
 The major steps that you have to perform can be briefly summarised in the following four steps:
+  <img width="796" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/501d85e4-d07f-4c07-8df4-67e205222003">
 
-- Data Understanding: Here, you need to load the data and understand the representation.
+- Data Understanding: Here, you need to load the data and understand the representation
 - Data Preprocessing: In this step, you will process both images and captions to the desired format.
+  <img width="771" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/d53e55d7-6a18-4601-a76d-6409dd8c7aea">
+
 - Train-Test Split: Combine both images and captions to create the train and test dataset.
+  
+
 - Model Building: This is the stage where you will create your image captioning model by building Encoder, Attention and Decoder model.
+  <img width="762" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/9a804873-4da9-4a02-aa38-10217fb349ed">
+  
+- Model Training:
+  <img width="760" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/f65a74a5-205e-455c-9aba-0e57bc78ebca">
+
 - Model Evaluation: Evaluate the models using greedy search and BLEU score.
+  ![Uploading image.png…]()
+
+
