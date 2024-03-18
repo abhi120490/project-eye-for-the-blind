@@ -23,7 +23,7 @@ The major steps that you have to perform can be briefly summarised in the follow
   <img width="771" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/d53e55d7-6a18-4601-a76d-6409dd8c7aea">
 
 - Model Training:<br>
- <img width="762" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/9a804873-4da9-4a02-aa38-10217fb349ed">
+  <img width="762" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/9a804873-4da9-4a02-aa38-10217fb349ed">
 
 - Model Evaluation: Evaluate the models using greedy search and BLEU score.<br>
   <img width="760" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/f65a74a5-205e-455c-9aba-0e57bc78ebca">
