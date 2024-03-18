@@ -19,13 +19,13 @@ The major steps that you have to perform can be briefly summarised in the follow
 - Dataset Creation:<br>
    <img width="796" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/501d85e4-d07f-4c07-8df4-67e205222003">
   
-- Model Building: This is the stage where you will create your image captioning model by building Encoder, Attention and Decoder model.
-  <img width="762" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/9a804873-4da9-4a02-aa38-10217fb349ed">
-  
-- Model Training:<br>
-  <img width="760" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/f65a74a5-205e-455c-9aba-0e57bc78ebca">
+- Model Building: This is the stage where you will create your image captioning model by building Encoder, Attention and Decoder model.<br>
+  <img width="771" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/d53e55d7-6a18-4601-a76d-6409dd8c7aea">
 
-- Model Evaluation: Evaluate the models using greedy search and BLEU score.
-  ![Uploading image.png…]()
+- Model Training:<br>
+ <img width="762" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/9a804873-4da9-4a02-aa38-10217fb349ed">
+
+- Model Evaluation: Evaluate the models using greedy search and BLEU score.<br>
+  <img width="760" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/f65a74a5-205e-455c-9aba-0e57bc78ebca">
 
 
