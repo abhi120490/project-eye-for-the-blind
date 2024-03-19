@@ -12,6 +12,8 @@ Link: https://arxiv.org/abs/1502.03044
 
 The dataset is taken from the Kaggle website and it consists of sentence-based image descriptions having a list of 8,000 images that are each paired with five different captions which provide clear descriptions of the salient entities and events of the image.
 
+**Dataset: **https://www.kaggle.com/datasets/adityajn105/flickr8k
+
 **Project Pipeline**
 The major steps that you have to perform can be briefly summarised in the following four steps:<br>
   <img width="866" alt="image" src="https://github.com/abhi120490/project-eye-for-the-blind/assets/31450904/ab0b9082-6ea2-493b-a673-078b5fcc4d71">
